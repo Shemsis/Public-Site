@@ -93,11 +93,11 @@ a:hover {
 }
 
 .zmi {
-	background: url(Images/82240.jpg) no-repeat; width: 100% height: 100%;
+	background: url(../Images/82240.jpg) no-repeat; width: 100% height: 100%;
 }
 
 .menu {
-	background: url(Images/Devushka.jpg) no-repeat;
+	background: url(../Images/Devushka.jpg) no-repeat;
 	background-size: cover;
 }
 
